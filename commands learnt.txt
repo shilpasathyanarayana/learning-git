@@ -1,0 +1,10 @@
+git init --- create empty git repositary/repo repos
+git status---- access current status of git repo
+git add file name
+git commit -m "message"
+(recieved an error - author identity unknown
+Solved by adding email and name to git by running commands
+git config --global user.email "shilpa.sathyanarayana5@gmail.com"
+git config --global user.name "Shilpa Sathya Narayana")
+git commit -m "message" ---after this file tracked in git
+git push ---to push to git repo to git hub (remote repo)
