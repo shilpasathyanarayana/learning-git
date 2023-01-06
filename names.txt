@@ -3,3 +3,4 @@ samsung
 Foxcon
 Oppo
 apple
+Oneplus
