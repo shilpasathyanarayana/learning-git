@@ -2,3 +2,4 @@ LG
 samsung
 Foxcon
 Oppo
+apple
