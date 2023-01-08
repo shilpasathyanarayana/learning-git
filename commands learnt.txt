@@ -19,6 +19,9 @@ git pulll ---(to fech the update from same git hub)--( to get update from same g
 
 :q! -- to close vim text editor on git bash
 
+if there is commit not pushed and there is an update on the remote and you try to pull it will result in merge conflicts. what to do in that case.
+These are the instructions given to git.
+
 git config pull.rebase false  # merge (the default strategy)
 git config pull.rebase true   # rebase
 git config pull.ff only       # fast-forward only
