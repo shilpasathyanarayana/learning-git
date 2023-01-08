@@ -15,3 +15,6 @@ click on profile icon --> settings--> Devoloper settings-> personal access token
 login--> Note(Name)-->set desired expiration-->set all required permission--> click generate token
 Copy the generated token and save it in secured location(available to copy only once)
 
+git pulll ---(to fech the update from same git hub)--( to get update from same git hub repo)
+
+:q! -- to close vim text editor on git bash
