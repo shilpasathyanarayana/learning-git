@@ -8,3 +8,10 @@ git config --global user.email "shilpa.sathyanarayana5@gmail.com"
 git config --global user.name "Shilpa Sathya Narayana")
 git commit -m "message" ---after this file tracked in git
 git push ---to push to git repo to git hub (remote repo)
+git clone https://github.com/shilpasathyanarayana/learning-git.git (duplicating in another computer or folder)
+
+How to generate personal access token?(PAT)
+click on profile icon --> settings--> Devoloper settings-> personal access tokens --> tokens(classic)-->Generate new tokens--> Generate new tocken classic
+login--> Note(Name)-->set desired expiration-->set all required permission--> click generate token
+Copy the generated token and save it in secured location(available to copy only once)
+
