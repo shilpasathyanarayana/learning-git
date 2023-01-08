@@ -25,3 +25,5 @@ These are the instructions given to git.
 git config pull.rebase false  # merge (the default strategy)
 git config pull.rebase true   # rebase
 git config pull.ff only       # fast-forward only
+
+These are some helpful hints given by git
