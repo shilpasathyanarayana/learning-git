@@ -27,3 +27,9 @@ git config pull.rebase true   # rebase
 git config pull.ff only       # fast-forward only
 
 These are some helpful hints given by git
+
+How to create branches?
+git checkout -b branch name
+
+how to swich back to main branch?
+git switch main branch name

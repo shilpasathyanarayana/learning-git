@@ -4,3 +4,4 @@ Foxcon
 Oppo
 apple
 Oneplus
+Motorola
