@@ -18,6 +18,7 @@ Copy the generated token and save it in secured location(available to copy only 
 git pulll ---(to fech the update from same git hub)--( to get update from same git hub repo)
 
 :q! -- to close vim text editor on git bash
+:wq! --to save and quit vim text editor on git bash
 
 if there is commit not pushed and there is an update on the remote and you try to pull it will result in merge conflicts. what to do in that case.
 These are the instructions given to git.
