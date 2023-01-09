@@ -34,3 +34,6 @@ git checkout -b branch name
 
 how to swich back to main branch?
 git switch main branch name
+
+How to discard the changes we made in current branch?
+git stash
