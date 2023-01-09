@@ -5,3 +5,6 @@ Oppo
 apple
 Oneplus
 Motorola
+vivo
+nokia
+Xiomi
