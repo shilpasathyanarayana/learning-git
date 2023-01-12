@@ -37,3 +37,25 @@ git switch main branch name
 
 How to discard the changes we made in current branch?
 git stash
+
+listing branches in git:
+git branch or git branch -a
+
+git log
+1. git log --no-merges --raw --since="5 days ago"
+
+git branch --merged branch name ( to list all the branches which are merged with branch name)
+
+git revert <commit id>
+
+git show branch:"file name" ( to view content of the file from the given branch)
+
+git clean -f -d ( to remove all untracked files and folders)
+
+git commit --amend -m "new message" (to make changes to last commit)
+
+git diff <commit id1> <commit id 2> ( to know the difference between the the two commit id)
+
+git cherry -v main ( to show all commits in the branch that have not been merged in to main branch)
+
+
