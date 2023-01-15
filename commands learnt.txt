@@ -41,7 +41,7 @@ git stash
 listing branches in git:
 git branch or git branch -a
 
-git log
+git log ( display all commit in branch)
 1. git log --no-merges --raw --since="5 days ago"
 
 git branch --merged branch name ( to list all the branches which are merged with branch name)
@@ -57,5 +57,7 @@ git commit --amend -m "new message" (to make changes to last commit)
 git diff <commit id1> <commit id 2> ( to know the difference between the the two commit id)
 
 git cherry -v main ( to show all commits in the branch that have not been merged in to main branch)
+
+git --help (to display all commands)
 
 
