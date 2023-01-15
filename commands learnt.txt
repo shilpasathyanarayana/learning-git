@@ -60,6 +60,4 @@ git cherry -v main ( to show all commits in the branch that have not been merged
 
 git --help (to display all commands)
 
-this line will be deleted after git revert
-
 
